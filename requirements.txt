@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+rank_bm25
+sqlite3
+requests
+
